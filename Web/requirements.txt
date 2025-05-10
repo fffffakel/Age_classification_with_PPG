@@ -1,0 +1,11 @@
+streamlit
+wfdb
+heartpy
+torch
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+pathlib 
+shutil
